@@ -1,3 +1,5 @@
 fun main(){
-    println("Hello! Kotlin!")
+    // 変数の宣言
+    var text :String = "Hello! Kotlin!"
+    println(text)
 }
